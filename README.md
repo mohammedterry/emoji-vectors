@@ -10,4 +10,7 @@ i managed to create vectors to represent each emoji
 this allowed me to make a game using emojis - guess the odd one out!
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/c.png)
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/d.png)
+![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/e.png)
+![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/f.png)
+![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/g.png)
 
