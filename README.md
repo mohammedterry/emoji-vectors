@@ -20,4 +20,5 @@ I can also use the emoji vectors to create a fun game - guess the odd one out!
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/d.png)
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/e.png)
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/f.png)
-
+![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/g.png)
+![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/h.png)
