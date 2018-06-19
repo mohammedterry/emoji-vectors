@@ -1,8 +1,10 @@
 # emoji-vectors
 Using keywords used to tag emojis on the internet (i.e. from emojipedia)
 as well as other sites (i.e. sentiment values for emojis, sexual connotations for emojis, etc)
-and then adding commonly colloquated words into the mix (i.e. using a twitter dataset)
-i managed to create vectors to represent each emoji 
+and then adding the 100 most commonly colloquated words for each  (i.e. using a twitter dataset)
+i managed to create a dictionary of emojis (included) 
+
+Using this dictionary i can use a method to convert each emoji into vectors in multidimensional hyperspace (a simple yet effective method of creating embeddings - - vectors not included here due to privacy issues - im developing this as part of an app for a company) 
 
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/a.png)
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/b.png)
