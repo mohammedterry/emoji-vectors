@@ -13,6 +13,7 @@ The method of converting keyword categories into vectors is both simple and effe
 
 I used this to create an emojify() function that converts any word into its closest emojis
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/emojify.png)
+![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/i.png)
 
 I can also use the emoji vectors to create a fun game - guess the odd one out!
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/c.png)
