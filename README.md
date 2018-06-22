@@ -11,6 +11,7 @@ Using this dictionary i can use a method to convert each emoji into vectors in m
 
 The method of converting keyword categories into vectors is both simple and effective! i did it to create word vectors too and if i use the same categories for both the emojis and words - i can essentially embed the emojis into the same hyperspace as the wordvectors!  Thus emojis are related to words too.  
 
+![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/new_emojis.png)
 I used this to create an emojify() function that converts any word into its closest emojis
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/emojify.png)
 ![](https://raw.githubusercontent.com/mohammedterry/emoji-vectors/master/i.png)
